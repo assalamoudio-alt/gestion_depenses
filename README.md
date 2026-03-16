@@ -1,6 +1,6 @@
-# Application de gestion des dépenses
+ Application de gestion des dépenses
 
-## Projet universitaire
+ Projet universitaire
 
 Application web permettant de gérer les dépenses quotidiennes.
 
